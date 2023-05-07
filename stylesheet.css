@@ -1,0 +1,13 @@
+#buttonContainer {
+    text-align: center;
+    font-size: 0%;
+    height: 200px;
+    position: relative;
+}
+body {
+    background-color: #252526;
+    color: #C7CFD9;
+}
+a {
+    color: #716DF2;
+}
