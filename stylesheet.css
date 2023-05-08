@@ -8,6 +8,7 @@ body {
     background-color: #252526;
     color: #C7CFD9;
 }
-a {
-    color: #716DF2;
+#contact {
+    text-align: center;
+    margin: auto;
 }
